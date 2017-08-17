@@ -1,0 +1,34 @@
+﻿# MicroService ecosystem
+
+## API Getway
+  - [Zuul](https://github.com/Netflix/zuul)
+   - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.  
+   - [Github](https://github.com/Netflix/zuul)
+  - [AWS API Gateway](https://aws.amazon.com/api-gateway)
+   - Amazon API Gateway 是一种完全托管的服务，可以帮助开发者轻松创建、发布、维护、监控和保护任意规模的 API。
+  - [Kong](https://getkong.org/)
+   - The open-source API Gateway and Microservices Management Layer, delivering high performance and reliability. 
+   - [Github](https://github.com/Mashape/kong) 
+  - [microgateway](https://github.com/strongloop/microgateway)
+   - IBM API Connect Microgateway framework, built on Node.js & Nginx.The Microgateway is an developer-focused, extensible gateway framework written in Node.js for enforcing access to Microservices & APIs. 
+   - [Github](https://github.com/strongloop/microgateway)
+   - [Homepage](https://developer.ibm.com/apiconnect)
+  - [Tyk API Gateway](https://github.com/TykTechnologies/tyk)
+   - Tyk is a lightweight, open source API Gateway and Management Platform enables you to control who accesses your API, when they access it and how they access it. Tyk will also record detailed analytics on how your users are interacting with your API and when things go wrong.
+   - [Github](https://github.com/TykTechnologies/tyk)
+  - [Orange](http://orange.sumory.com)
+   - 一个基于OpenResty / Nginx的HTTP API Gateway. 
+   - [Github](https://github.com/sumory/orange)
+  - [Claudia.js](https://github.com/claudiajs/claudia) 
+   - Deploy Node.js projects to AWS Lambda and API Gateway easily.
+   - [Github](https://github.com/claudiajs/claudia)
+   - [Homepage](https://claudiajs.com)
+  - [fagongzi/Gateway](https://github.com/fagongzi/gateway)
+   - Gateway is a http restful API gateway.
+   - [Github](https://github.com/fagongzi/gateway)
+  - [adobe-apiplatform/apigateway](https://github.com/adobe-apiplatform/apigateway) 
+   - A Performant API Gateway based on NGINX and Openresty
+   - [Github](https://github.com/adobe-apiplatform/apigateway)
+  - [spinnaker/gate] (https://github.com/spinnaker/gate)
+   - Spinnaker API Gateway
+   - [Github](https://github.com/spinnaker/gate) 
